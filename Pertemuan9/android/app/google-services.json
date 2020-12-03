@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93822471329",
+    "project_id": "irvan1",
+    "storage_bucket": "irvan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93822471329:android:88f9859b92160ee05f74e0",
+        "android_client_info": {
+          "package_name": "com.mobileirvan3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93822471329-odrdajuso3h9hvn334dmlad3po142f0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzR_SiZZEv8oWcYHql6Y1YCX9ljaXAvr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93822471329-odrdajuso3h9hvn334dmlad3po142f0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
